@@ -1,0 +1,596 @@
+# SITE INFORMATION #
+description,state,latitude,longitude,timezone,install,horizontalDatum,verticalDatum,verticalAccuracy,elevationMethod,tzOffset,activeFlag,type,responsibility,agencyRegion,siteid,elevation
+Colorado River Below Big Bend,AZ,35.0917,-114.6328,US/Mountain,,,,0,,,,stream,,LC,bbblc,488.4
+Colorado River Below Interstate Bridge,AZ,33.6006,-114.5497,US/Mountain,,,,0,,,,stream,,LC,biblc,
+Colorado River Below McIntyre Park,AZ,33.5164,-114.5692,US/Mountain,,,,0,,,,stream,,LC,bmplc,
+Colorado River Below Needles Bridge,CA,34.8181,-114.5908,US/Pacific,,,,0,,,,stream,,LC,bnblc,
+Colorado River Below Oxbow Bridge,AZ,33.3683,-114.7264,US/Mountain,,,,0,,,,stream,,LC,boblc,
+Colorado River at Cibola Gage,AZ,33.2322,-114.6817,US/Mountain,,,,0,,,,stream,,LC,clc,214.5
+COLORADO RIVER NEAR CAMEO; CO (CCAC),CO,39.23889,-108.26667,,,,,0,,,,stream,,GP,colcamco,
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),CO,40.08308333,-106.0867222,,,,,0,,,,stream,,GP,colgbyco,
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,CO,39.555,-107.33694,,,,,0,,,,stream,,GP,colgleco,
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,CO,40.12083,-105.9,,,,,0,,,,stream,,GP,colngbco,
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),CO,39.09944,-108.3575,,,,,0,,,,stream,,GP,colpalco,
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),CO,39.13277,-109.02639,,,,,0,,,,stream,,GP,colutaco,
+Colorado River at Parker Gage,CA,34.1428,-114.3189,US/Pacific,,,,0,,,,stream,,LC,pglc,347.3
+Colorado River at River Section 41,AZ,34.6986,-114.4664,US/Mountain,,,,0,,,,stream,,LC,rs41lc,455.3
+Colorado River at Taylor Ferry,AZ,33.4508,-114.6353,US/Mountain,,,,0,,,,stream,,LC,tflc,236
+Colorado River at Water Wheel,AZ,33.9206,-114.5356,US/Mountain,,,,0,,,,stream,,LC,wwlc,305.91
+# SERIES DATA #
+Site,Site ID,Parameter,Date,Value,Units
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-01 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-02 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-03 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-04 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-05 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-06 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-07 00:00:00,5.22,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-08 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-09 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-10 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-11 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-12 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-13 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-14 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-15 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-16 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-17 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-18 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-19 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-20 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-21 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-22 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-23 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-24 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Stream Gage Height,2017-10-25 00:00:00,5.21,Feet
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-01 00:00:00,3447.33,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-02 00:00:00,3447.33,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-03 00:00:00,3447.33,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-04 00:00:00,3447.33,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-05 00:00:00,3447.33,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-06 00:00:00,3447.33,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-07 00:00:00,3444.71,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-08 00:00:00,3435.29,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-09 00:00:00,3436.65,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-10 00:00:00,3430.43,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-11 00:00:00,3432.38,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-12 00:00:00,3432.77,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-13 00:00:00,3434.51,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-14 00:00:00,3436.65,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-15 00:00:00,3433.74,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-16 00:00:00,3431.79,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-17 00:00:00,3425.78,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-18 00:00:00,3425.59,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-19 00:00:00,3429.07,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-20 00:00:00,3429.27,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-21 00:00:00,3435.48,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-22 00:00:00,3434.71,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-23 00:00:00,3434.13,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-24 00:00:00,3429.56,cubic feet per second
+COLORADO RIVER NEAR CAMEO; CO (CCAC),colcamco,Streamflow,2017-10-25 00:00:00,3422.59,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-01 00:00:00,0.9,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-02 00:00:00,0.98,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-03 00:00:00,1.19,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-04 00:00:00,1.17,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-05 00:00:00,1.18,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-06 00:00:00,1.18,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-07 00:00:00,1.09,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-08 00:00:00,1.02,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-09 00:00:00,1.02,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-10 00:00:00,1.02,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-11 00:00:00,1.02,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-12 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-13 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-14 00:00:00,0.72,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-15 00:00:00,0.69,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-16 00:00:00,0.68,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-17 00:00:00,0.68,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-18 00:00:00,0.69,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-19 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-20 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-21 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-22 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-23 00:00:00,0.7,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-24 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Stream Gage Height,2017-10-25 00:00:00,0.71,Feet
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-01 00:00:00,33.38,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-02 00:00:00,39.02,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-03 00:00:00,51.76,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-04 00:00:00,51,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-05 00:00:00,51.33,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-06 00:00:00,51.34,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-07 00:00:00,45.01,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-08 00:00:00,40.95,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-09 00:00:00,40.7,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-10 00:00:00,40.81,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-11 00:00:00,40.77,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-12 00:00:00,22.93,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-13 00:00:00,22.75,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-14 00:00:00,23.1,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-15 00:00:00,21.75,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-16 00:00:00,21.3,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-17 00:00:00,21.24,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-18 00:00:00,21.79,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-19 00:00:00,21.34,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-20 00:00:00,21.24,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-21 00:00:00,21.24,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-22 00:00:00,21.24,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-23 00:00:00,20.64,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-24 00:00:00,21.17,cubic feet per second
+COLORADO RIVER BELOW GRANBY RESERVOIR; CO (CGBC),colgbyco,Streamflow,2017-10-25 00:00:00,21.24,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-01 00:00:00,4.63,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-02 00:00:00,4.85,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-03 00:00:00,4.8,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-04 00:00:00,4.71,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-05 00:00:00,4.75,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-06 00:00:00,4.78,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-07 00:00:00,4.76,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-08 00:00:00,4.69,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-09 00:00:00,4.68,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-10 00:00:00,4.58,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-11 00:00:00,4.53,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-12 00:00:00,4.51,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-13 00:00:00,4.48,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-14 00:00:00,4.49,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-15 00:00:00,4.48,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-16 00:00:00,4.49,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-17 00:00:00,4.49,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-18 00:00:00,4.46,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-19 00:00:00,4.48,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-20 00:00:00,4.46,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-21 00:00:00,4.49,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-22 00:00:00,4.46,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-23 00:00:00,4.45,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-24 00:00:00,4.45,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Stream Gage Height,2017-10-25 00:00:00,4.42,Feet
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-01 00:00:00,2662.15,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-02 00:00:00,3090.82,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-03 00:00:00,2979.63,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-04 00:00:00,2812.19,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-05 00:00:00,2896.8,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-06 00:00:00,2956.92,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-07 00:00:00,2905.61,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-08 00:00:00,2783.16,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-09 00:00:00,2755.5,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-10 00:00:00,2564.34,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-11 00:00:00,2474.72,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-12 00:00:00,2441.5,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-13 00:00:00,2398.15,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-14 00:00:00,2407.85,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-15 00:00:00,2399.96,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-16 00:00:00,2409.96,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-17 00:00:00,2404.59,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-18 00:00:00,2363.11,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-19 00:00:00,2389.52,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-20 00:00:00,2367.01,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-21 00:00:00,2416.43,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-22 00:00:00,2352.64,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-23 00:00:00,2335.94,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-24 00:00:00,2339.96,cubic feet per second
+COLORADO RIVER BELOW GLENWOOD SPRINGS; CO,colgleco,Streamflow,2017-10-25 00:00:00,2291.19,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-01 00:00:00,1.28,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-02 00:00:00,1.28,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-03 00:00:00,1.42,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-04 00:00:00,1.4,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-05 00:00:00,1.4,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-06 00:00:00,1.4,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-07 00:00:00,1.38,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-08 00:00:00,1.38,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-09 00:00:00,1.38,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-10 00:00:00,1.38,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-11 00:00:00,1.37,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-12 00:00:00,1.22,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-13 00:00:00,1.19,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-14 00:00:00,1.19,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-15 00:00:00,1.18,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-16 00:00:00,1.17,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-17 00:00:00,1.17,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-18 00:00:00,1.17,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-19 00:00:00,1.19,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-20 00:00:00,1.18,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-21 00:00:00,1.18,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-22 00:00:00,1.2,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-23 00:00:00,1.2,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-24 00:00:00,1.2,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Stream Gage Height,2017-10-25 00:00:00,1.2,Feet
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-01 00:00:00,41.26,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-02 00:00:00,41.37,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-03 00:00:00,53.75,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-04 00:00:00,52.51,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-05 00:00:00,52.14,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-06 00:00:00,52.15,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-07 00:00:00,50.04,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-08 00:00:00,50.36,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-09 00:00:00,50.11,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-10 00:00:00,49.97,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-11 00:00:00,49.63,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-12 00:00:00,35.55,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-13 00:00:00,33.45,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-14 00:00:00,33.52,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-15 00:00:00,32.68,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-16 00:00:00,31.9,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-17 00:00:00,31.34,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-18 00:00:00,31.22,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-19 00:00:00,32.29,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-20 00:00:00,32.06,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-21 00:00:00,31.8,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-22 00:00:00,33.61,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-23 00:00:00,33.24,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-24 00:00:00,33.56,cubic feet per second
+COLORADO RIVER NEAR GRANBY RESERVOIR; CO,colngbco,Streamflow,2017-10-25 00:00:00,33.29,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-01 00:00:00,4.39,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-02 00:00:00,4.63,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-03 00:00:00,4.84,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-04 00:00:00,4.65,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-05 00:00:00,4.57,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-06 00:00:00,4.62,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-07 00:00:00,4.66,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-08 00:00:00,4.59,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-09 00:00:00,4.53,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-10 00:00:00,4.54,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-11 00:00:00,4.41,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-12 00:00:00,4.35,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-13 00:00:00,4.32,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-14 00:00:00,4.25,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-15 00:00:00,4.24,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-16 00:00:00,4.24,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-17 00:00:00,4.23,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-18 00:00:00,4.2,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-19 00:00:00,4.16,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-20 00:00:00,4.18,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-21 00:00:00,4.18,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-22 00:00:00,4.21,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-23 00:00:00,4.17,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-24 00:00:00,4.16,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Stream Gage Height,2017-10-25 00:00:00,4.16,Feet
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-01 00:00:00,1695.75,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-02 00:00:00,2137.29,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-03 00:00:00,2541.76,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-04 00:00:00,2154.4,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-05 00:00:00,2013.75,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-06 00:00:00,2107.46,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-07 00:00:00,2165.59,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-08 00:00:00,2050.09,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-09 00:00:00,1929.25,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-10 00:00:00,1944.29,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-11 00:00:00,1725.21,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-12 00:00:00,1626.81,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-13 00:00:00,1573.1,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-14 00:00:00,1479.27,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-15 00:00:00,1457.12,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-16 00:00:00,1457.13,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-17 00:00:00,1438.47,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-18 00:00:00,1399.61,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-19 00:00:00,1341.44,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-20 00:00:00,1376.35,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-21 00:00:00,1373.29,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-22 00:00:00,1414.92,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-23 00:00:00,1353.55,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-24 00:00:00,1343.43,cubic feet per second
+COLORADO RIVER NEAR PALISADE; COLORADO (CGVC),colpalco,Streamflow,2017-10-25 00:00:00,1346.4,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-01 00:00:00,4.63,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-02 00:00:00,4.72,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-03 00:00:00,4.99,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-04 00:00:00,4.89,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-05 00:00:00,4.75,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-06 00:00:00,4.7,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-07 00:00:00,4.72,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-08 00:00:00,4.69,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-09 00:00:00,4.64,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-10 00:00:00,4.67,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-11 00:00:00,4.62,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-12 00:00:00,4.51,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-13 00:00:00,4.44,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-14 00:00:00,4.32,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-15 00:00:00,4.3,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-16 00:00:00,4.31,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-17 00:00:00,4.29,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-18 00:00:00,4.17,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-19 00:00:00,4.14,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-20 00:00:00,4.12,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-21 00:00:00,4.11,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-22 00:00:00,4.17,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-23 00:00:00,4.19,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-24 00:00:00,4.17,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Stream Gage Height,2017-10-25 00:00:00,4.17,Feet
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-01 00:00:00,5340.63,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-02 00:00:00,5536.56,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-03 00:00:00,6145.6,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-04 00:00:00,5900.42,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-05 00:00:00,5583.97,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-06 00:00:00,5483.44,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-07 00:00:00,5517.86,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-08 00:00:00,5463.53,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-09 00:00:00,5361.39,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-10 00:00:00,5426.93,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-11 00:00:00,5318.71,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-12 00:00:00,5090.41,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-13 00:00:00,4938.13,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-14 00:00:00,4708.26,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-15 00:00:00,4654.46,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-16 00:00:00,4689.82,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-17 00:00:00,4634.64,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-18 00:00:00,4409.77,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-19 00:00:00,4362.09,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-20 00:00:00,4320.74,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-21 00:00:00,4310.76,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-22 00:00:00,4419.24,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-23 00:00:00,4454.02,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-24 00:00:00,4408.4,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Streamflow,2017-10-25 00:00:00,4405.55,cubic feet per second
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-01 00:00:00,57.28,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-02 00:00:00,55.36,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-03 00:00:00,52.68,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-04 00:00:00,54.04,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-05 00:00:00,55.94,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-06 00:00:00,56.75,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-07 00:00:00,55.86,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-08 00:00:00,55.14,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-09 00:00:00,53.16,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-10 00:00:00,50.65,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-11 00:00:00,51.22,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-12 00:00:00,52.36,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-13 00:00:00,53.26,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-14 00:00:00,52.75,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-15 00:00:00,50.6,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-16 00:00:00,49.65,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-17 00:00:00,49.35,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-18 00:00:00,49.69,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-19 00:00:00,50.65,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-20 00:00:00,51.83,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-21 00:00:00,52.03,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-22 00:00:00,50.55,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-23 00:00:00,50.39,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-24 00:00:00,50.57,Degrees Fahrenheit
+COLORADO RIVER NEAR COLORADO-UTAH STATE LINE (CCUC),colutaco,Water Temperature,2017-10-25 00:00:00,50.54,Degrees Fahrenheit
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-01 00:00:00,13613.5,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-02 00:00:00,15807.6,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-03 00:00:00,16870.5,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-04 00:00:00,14986.6,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-05 00:00:00,11358,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-06 00:00:00,12471.5,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-07 00:00:00,15358,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-08 00:00:00,14678.1,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-09 00:00:00,13558.6,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-10 00:00:00,10522,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-11 00:00:00,9967.62,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-12 00:00:00,9828.91,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-13 00:00:00,10843.8,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-14 00:00:00,9220.22,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-15 00:00:00,9987.91,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-16 00:00:00,10192.5,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-17 00:00:00,10231.3,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-18 00:00:00,10531.7,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-19 00:00:00,10843.7,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-20 00:00:00,11453.8,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-21 00:00:00,11162.4,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-22 00:00:00,11051.5,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-23 00:00:00,10271.3,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-24 00:00:00,10462,cubic feet per second
+Colorado River Below Big Bend,bbblc,Streamflow,2017-10-25 00:00:00,10403.7,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-01 00:00:00,11463.4,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-02 00:00:00,13211.8,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-03 00:00:00,13191.6,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-04 00:00:00,13072.8,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-05 00:00:00,11884,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-06 00:00:00,9848.79,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-07 00:00:00,12684.5,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-08 00:00:00,13144.6,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-09 00:00:00,11501.6,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-10 00:00:00,10645.1,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-11 00:00:00,9344.08,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-12 00:00:00,8156.62,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-13 00:00:00,9153.67,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-14 00:00:00,7931.25,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-15 00:00:00,8316.54,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-16 00:00:00,8632.96,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-17 00:00:00,8703.5,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-18 00:00:00,9006.75,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-19 00:00:00,8880.12,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-20 00:00:00,9255.96,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-21 00:00:00,9276.62,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-22 00:00:00,9214.33,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-23 00:00:00,8830.29,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-24 00:00:00,8529.46,cubic feet per second
+Colorado River Below Needles Bridge,bnblc,Streamflow,2017-10-25 00:00:00,8591.42,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-01 00:00:00,11818.8,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-02 00:00:00,13110,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-03 00:00:00,12962.2,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-04 00:00:00,13068,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-05 00:00:00,12405.7,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-06 00:00:00,10347.2,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-07 00:00:00,12549.7,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-08 00:00:00,13563.7,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-09 00:00:00,12398.2,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-10 00:00:00,11365.3,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-11 00:00:00,10086,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-12 00:00:00,8792.64,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-13 00:00:00,9744.88,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-14 00:00:00,9018.67,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-15 00:00:00,9408.42,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-16 00:00:00,9652.33,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-17 00:00:00,9771.42,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-18 00:00:00,10190.4,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-19 00:00:00,10114.6,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-20 00:00:00,10464,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-21 00:00:00,10793,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-22 00:00:00,10666.4,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-23 00:00:00,10523.7,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-24 00:00:00,10039.9,cubic feet per second
+Colorado River at River Section 41,rs41lc,Streamflow,2017-10-25 00:00:00,9960.29,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-01 00:00:00,7441.33,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-02 00:00:00,7489.29,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-03 00:00:00,7960.14,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-04 00:00:00,6631.71,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-05 00:00:00,4353.46,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-06 00:00:00,7580.38,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-07 00:00:00,8714.25,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-08 00:00:00,8934.57,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-09 00:00:00,8503.43,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-10 00:00:00,8021.92,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-11 00:00:00,7160.3,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-12 00:00:00,4036.21,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-13 00:00:00,8037,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-14 00:00:00,7826.54,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-15 00:00:00,7611.46,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-16 00:00:00,7113.83,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-17 00:00:00,6474.58,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-18 00:00:00,7008.88,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-19 00:00:00,4221.92,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-20 00:00:00,7753.33,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-21 00:00:00,7438.08,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-22 00:00:00,7560.25,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-23 00:00:00,6687.54,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-24 00:00:00,7379.92,cubic feet per second
+Colorado River at Parker Gage,pglc,Streamflow,2017-10-25 00:00:00,7795.21,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-01 00:00:00,6025.46,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-02 00:00:00,7438,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-03 00:00:00,6913.5,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-04 00:00:00,7017.88,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-05 00:00:00,4900.96,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-06 00:00:00,5039.67,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-07 00:00:00,7822.38,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-08 00:00:00,8373.62,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-09 00:00:00,8103.46,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-10 00:00:00,7433.21,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-11 00:00:00,7065.71,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-12 00:00:00,5427.96,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-13 00:00:00,5613.04,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-14 00:00:00,7165.71,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-15 00:00:00,6904.21,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-16 00:00:00,6768.54,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-17 00:00:00,6391.33,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-18 00:00:00,6278.12,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-19 00:00:00,5567.92,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-20 00:00:00,6145.67,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-21 00:00:00,7571.42,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-22 00:00:00,7245.33,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-23 00:00:00,7418.54,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-24 00:00:00,6544.92,cubic feet per second
+Colorado River at Water Wheel,wwlc,Streamflow,2017-10-25 00:00:00,8023.38,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-01 00:00:00,6554.58,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-02 00:00:00,7073.92,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-03 00:00:00,6744.46,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-04 00:00:00,7276.92,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-05 00:00:00,6354.54,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-06 00:00:00,4469.96,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-07 00:00:00,6857.62,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-08 00:00:00,7984.5,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-09 00:00:00,8095.21,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-10 00:00:00,7699.92,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-11 00:00:00,7438.92,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-12 00:00:00,6711.5,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-13 00:00:00,4438.04,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-14 00:00:00,7307,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-15 00:00:00,7280.71,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-16 00:00:00,7205.83,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-17 00:00:00,6800.67,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-18 00:00:00,6371.12,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-19 00:00:00,6526.79,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-20 00:00:00,4617.21,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-21 00:00:00,7124,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-22 00:00:00,7165.5,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-23 00:00:00,7125,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-24 00:00:00,6493.08,cubic feet per second
+Colorado River Below Interstate Bridge,biblc,Streamflow,2017-10-25 00:00:00,7375.5,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-01 00:00:00,6686.58,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-02 00:00:00,6941.21,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-03 00:00:00,6992.67,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-04 00:00:00,7231.33,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-05 00:00:00,6594.62,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-06 00:00:00,4599.46,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-07 00:00:00,6466.75,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-08 00:00:00,7902.21,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-09 00:00:00,8259.21,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-10 00:00:00,7894.71,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-11 00:00:00,7509.58,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-12 00:00:00,6885.54,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-13 00:00:00,4586.04,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-14 00:00:00,7059.71,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-15 00:00:00,7330.83,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-16 00:00:00,7242.21,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-17 00:00:00,6880.29,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-18 00:00:00,6439.04,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-19 00:00:00,6547.25,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-20 00:00:00,4751.67,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-21 00:00:00,6873.25,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-22 00:00:00,7192.54,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-23 00:00:00,7118.46,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-24 00:00:00,6732.5,cubic feet per second
+Colorado River Below McIntyre Park,bmplc,Streamflow,2017-10-25 00:00:00,7066.04,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-01 00:00:00,6407.75,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-02 00:00:00,6437.58,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-03 00:00:00,6834.79,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-04 00:00:00,6788.58,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-05 00:00:00,6404.17,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-06 00:00:00,4454.38,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-07 00:00:00,5746.67,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-08 00:00:00,7560.38,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-09 00:00:00,8096.5,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-10 00:00:00,7766.62,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-11 00:00:00,7261.12,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-12 00:00:00,6678,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-13 00:00:00,4531.79,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-14 00:00:00,6459.79,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-15 00:00:00,7137.42,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-16 00:00:00,7054.5,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-17 00:00:00,6767.14,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-18 00:00:00,6282.9,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-19 00:00:00,6297.33,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-20 00:00:00,4781.29,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-21 00:00:00,6358.52,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-22 00:00:00,7080.71,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-23 00:00:00,6992.35,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-24 00:00:00,6706.5,cubic feet per second
+Colorado River at Taylor Ferry,tflc,Streamflow,2017-10-25 00:00:00,6655.55,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-01 00:00:00,6326.5,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-02 00:00:00,6138.08,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-03 00:00:00,6739.25,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-04 00:00:00,6459.29,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-05 00:00:00,6367.58,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-06 00:00:00,4769.75,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-07 00:00:00,5212.67,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-08 00:00:00,7076.92,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-09 00:00:00,7642.12,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-10 00:00:00,7379.29,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-11 00:00:00,6914.12,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-12 00:00:00,6468.62,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-13 00:00:00,4943.71,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-14 00:00:00,5729,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-15 00:00:00,6735.38,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-16 00:00:00,6694.88,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-17 00:00:00,6463.62,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-18 00:00:00,6122.38,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-19 00:00:00,5942.58,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-20 00:00:00,4891.83,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-21 00:00:00,5656.17,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-22 00:00:00,6621.79,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-23 00:00:00,6554.25,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-24 00:00:00,6463.88,cubic feet per second
+Colorado River Below Oxbow Bridge,boblc,Streamflow,2017-10-25 00:00:00,6101.42,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-01 00:00:00,7336,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-02 00:00:00,7007.5,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-03 00:00:00,7695.08,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-04 00:00:00,7308.21,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-05 00:00:00,7516.33,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-06 00:00:00,6241.08,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-07 00:00:00,5656.75,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-08 00:00:00,7676.58,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-09 00:00:00,8412.04,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-10 00:00:00,8203.83,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-11 00:00:00,7822.29,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-12 00:00:00,7491.38,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-13 00:00:00,6516.04,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-14 00:00:00,6001.71,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-15 00:00:00,7565.83,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-16 00:00:00,7539.75,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-17 00:00:00,7423.42,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-18 00:00:00,7117.87,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-19 00:00:00,6900.71,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-20 00:00:00,6529.67,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-21 00:00:00,6187.12,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-22 00:00:00,7615.17,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-23 00:00:00,7598.58,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-24 00:00:00,7580.12,cubic feet per second
+Colorado River at Cibola Gage,clc,Streamflow,2017-10-25 00:00:00,7073.57,cubic feet per second
+
